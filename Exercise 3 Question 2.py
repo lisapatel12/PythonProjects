@@ -1,4 +1,4 @@
-#Lisa Patel (Driver)(U50140470) Naman Wadhwa (Navigator)(U98636423)
+#Lisa Patel (Driver)
 
 #list out the days 
 days_week= ['Sunday','Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
