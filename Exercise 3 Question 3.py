@@ -1,6 +1,5 @@
 #Morse Code Converter
-#Naman Wadhwa U98636423 (Driver)
-#Lisa Patel U50140470 (Navigator)
+#Lisa Patel (Driver)
 #This program is meant for the user to enter a string and it will convert it to Morse code sequencing
 
 #Creating a dictionary to store the store alphabet and other common puncuations to compare to the
