@@ -1,5 +1,4 @@
-#Lisa Patel (Driver)(U50140470) Naman Wadhwa (Navigator)(U98636423)
-
+#Lisa Patel (Driver)
 #create a tuple
 Courses= ('COP 2510', 'EGN 3000L', 'MAC 2281', 'MUH 3016', 'PHY 2048')
 
