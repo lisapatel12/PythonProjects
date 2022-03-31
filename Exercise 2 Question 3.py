@@ -1,4 +1,4 @@
-#Lisa Patel (Driver)(U50140470) and Shehryar Zaihd (Navigator)(U91165060)
+#Lisa Patel (Driver)
 
 #Input a temperature between -58F and 41F
 ta = float(input("Enter the temperature in Fahrenheit between -58F and 41F: "))
