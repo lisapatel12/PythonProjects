@@ -1,4 +1,4 @@
-#Lisa Patel (Navigator)(U50140470) and Tianna Davis (Driver)(U69901851)
+#Lisa Patel (Driver)
 ### Tip Calculator ###
 
 #variable assignment
