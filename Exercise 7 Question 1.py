@@ -1,5 +1,4 @@
-#Driver: Fares Ibrahim(U09773571)
-#Navigator : Lisa Patel (U50140470)
+#Driver:Lisa Patel
 #We are creating a program that collects information from the user abou the pet .
 #The program has a default of 0 age and unprovided name and type of the pet
 #The user then enters the pet's age ,name ,and type 
