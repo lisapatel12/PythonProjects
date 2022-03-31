@@ -1,5 +1,4 @@
-# Driver: Shehryar Zaihd U91165060
-# Navigator: Lisa Patel U50140470
+# Driver: U50140470
 # Assignment 2 Ramp angle
 
 # Program Description:
