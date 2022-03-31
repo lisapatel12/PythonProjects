@@ -1,4 +1,4 @@
-#Lisa Patel (Driver)(U50140470) Fares Ibrahim(Navigator)(U09773571)
+#Lisa Patel (Driver)
 class RetailItem:
     def __init__(self,itemType,amount,price):
 #put the data items out and declare it
