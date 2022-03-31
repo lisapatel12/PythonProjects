@@ -1,5 +1,4 @@
-# Driver: Shehryar Zaihd U91165060
-# Navigator: Lisa Patel U50140470
+# Driver: Lisa Patel
 # Assignment 2 Perimeter of a triangle
 
 # Program Description: Program prompts user for lengths of a triangle and computes the perimeter if the input is valid.
