@@ -1,5 +1,5 @@
-# Driver: Lisa Patel (U50140470)
-# Navigator: Luis Vega (U19971280)
+# Driver: Lisa Patel
+
 
 # This program uses information from the other files in order to execute the trivia game.
 
