@@ -1,4 +1,4 @@
-#Lisa Patel (Driver)(U50140470) Olivia Santana-Arellano(Navigator)(U58327253)
+#Lisa Patel (Driver)
 
 #make it accept the text file and convert into pig latin
 file= open('phrase.txt', 'w')
