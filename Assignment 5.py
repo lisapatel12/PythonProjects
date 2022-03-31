@@ -1,5 +1,4 @@
-# Driver: Adit Prabhu(U72452636)
-#Navigator : Lisa Patel (U5014070)
+# Driver: Lisa Patel
 import random
 
 #current position of hare
