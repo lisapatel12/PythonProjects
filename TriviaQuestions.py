@@ -1,5 +1,4 @@
-# Driver: Luis Vega (U19971280)
-# Navigator: Lisa Patel (U50140470)
+# Driver:Lisa Patel
 
 # This program defines a function that creates a list of trivia question objects and returns it as a list.
 
