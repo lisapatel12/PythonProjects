@@ -1,4 +1,4 @@
-#Lisa Patel (Driver)(U50140470) Adit Prabhu (Navigator)(U72452636)
+#Lisa Patel (Driver)
 #import random
 import random
 #list out the choices
