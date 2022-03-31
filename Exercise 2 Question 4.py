@@ -1,4 +1,4 @@
-#Lisa Patel (Driver)(U50140470) and Shehryar Zaihd (Navigator)(U91165060)
+#Lisa Patel (Driver)
 
 #variable assignment to calculate discount
 def discount_percentage(quantity):
