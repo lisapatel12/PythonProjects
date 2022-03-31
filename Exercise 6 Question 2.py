@@ -1,5 +1,4 @@
-#Lisa Patel (Navigator) U50140470
-#Olivia Santana-Arellano (Driver) U58327253
+#Lisa Patel (Driver) 
 #This program uses a dictionary to encrypt a text file and provides output.
 
 #creating dictionary
