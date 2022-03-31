@@ -1,5 +1,4 @@
-# Driver: Luis Vega (U19971280)
-# Navigator: Lisa Patel (U50140470)
+# Driver:Lisa Patel
 
 # This program defines the Questions class for the other files
 
