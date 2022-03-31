@@ -1,4 +1,4 @@
-#Lisa Patel (Driver)(U50140470) and Tianna Davis (Navigator)(U69901851)
+#Lisa Patel (Driver)
 
 #Slope of a Line
 # Python program for slope of line 
